@@ -1,4 +1,4 @@
-# Ruby on Rails API and React Initial Configuration
+# Ruby on Rails API and React Client
 
 Things you may want to cover:
 
