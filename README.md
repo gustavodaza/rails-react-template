@@ -1,4 +1,4 @@
-# Ruby on Rails API and React Client
+# Ruby on Rails API/React Client Template
 
 Things you may want to cover:
 
